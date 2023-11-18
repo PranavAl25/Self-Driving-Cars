@@ -1,6 +1,6 @@
 # Object Detection for Self-Driving Cars
 
-This repository contains code and resources for implementing object detection in the context of self-driving cars. The project explores various techniques, including the sliding window algorithm, CNN-based vehicle recognition, and transfer learning with pre-trained models.
+This repository contains code and resources for implementing object detection in the context of self-driving cars. The project explores various techniques, including the sliding window algorithm, CNN-based vehicle recognition, transfer learning with pre-trained models, and the state of the art YOLO model.
 
 ## Usage
 

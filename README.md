@@ -24,6 +24,3 @@ To run this project, follow these steps:
 - `results/plots/`: Directory for storing performance and accuracy plots.
 
 For detailed information on the project and how to use it, refer to the Jupyter Notebook and the code within the `src/` directory.
-
-Feel free to explore and contribute to this project!
-
